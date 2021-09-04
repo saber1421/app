@@ -309,6 +309,21 @@ ul li:nth-child(5):hover{
   display: none;
 }
 
+/*a */
+
+@media (prefers-color-scheme: dark) {
+ body {
+ background:#121212;
+ color:#fff;
+ }
+ header, footer {
+  background: #403b3b;
+  color: white;
+ }
+ .content {
+    background: #403b3b;
+}
+}
 
 /* Button */
 
