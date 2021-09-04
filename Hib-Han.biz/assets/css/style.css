@@ -1,8 +1,8 @@
 /*
 	TutuBox Webdesign
-	By @CrafterPika
-	Special Thanks to @DevCasp
-	(c) CrafterPika 2020
+	By @Hibaldz.Hack And Hanoo.Hack
+	Special Thanks to @jo7.k
+	(c) All Rights Are Save 2021
 	License: none
 */
 
@@ -15,7 +15,7 @@ body{
 .btn {
   background-color: DodgerBlue;
   border: none;
-  color: white;
+  color: black;
   padding: 12px 30px;
   cursor: pointer;
   font-size: 20px;
@@ -309,21 +309,6 @@ ul li:nth-child(5):hover{
   display: none;
 }
 
-/*a */
-
-@media (prefers-color-scheme: dark) {
- body {
- background:#121212;
- color:#fff;
- }
- header, footer {
-  background: #403b3b;
-  color: white;
- }
- .content {
-    background: #403b3b;
-}
-}
 
 /* Button */
 
